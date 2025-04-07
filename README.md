@@ -3,7 +3,7 @@ Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](
 
 ## Componentes do Grupo
 
-- Nome Componente 1
+- Giulliano Mazzaro de Camargo R.A 22.121.024-8
 - Nome Componente 2
 - Nome Componente 3
 - Nome Componente 4

@@ -7,7 +7,9 @@ Plataforma: PC.
 
 Perfil: Jogadores que curtem desafios, estética retrô, e jogos com progressão por habilidades ou coleta.
 
+
 - Que tipo de jogo mais agrada o seu público alvo?
+- 
 
 Plataforma com combate (estilo Dead Cells, Hollow Knight, Salt and Sanctuary).
 
@@ -15,7 +17,9 @@ Pixel art e progressão clara.
 
 Gameplay responsivo, com foco em habilidade e progresso.
 
+
 - Que desejos do público alvo o seu jogo satisfaz?
+
 
 Sensação de superação ao vencer inimigos difíceis.
 

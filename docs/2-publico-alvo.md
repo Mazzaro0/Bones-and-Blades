@@ -13,8 +13,8 @@ Gameplay responsivo, com foco em habilidade e progresso.
 
 - Que desejos do público alvo o seu jogo satisfaz?
 
-Sensação de superação ao vencer inimigos difíceis.
-Exploração e descoberta.
-Estilo visual retrô/moderno, com gráficos pixelados bem feitos.
-Recompensas constantes com coleta de moedas e upgrades.
-Imersão em uma narrativa de fantasia sombria, sem precisar ler muito.
+- Sensação de superação ao vencer inimigos difíceis.
+- Exploração e descoberta.
+- Estilo visual retrô/moderno, com gráficos pixelados bem feitos.
+- Recompensas constantes com coleta de moedas e upgrades.
+- Imersão em uma narrativa de fantasia sombria, sem precisar ler muito.

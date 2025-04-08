@@ -14,9 +14,8 @@ Características principais:
 
 - História
 
-    - Premissa
-        - Qual o plano de fundo do seu jogo? Onde se passa?
-        - O que deve ser contado antes do jogador assumir o controle?
+Premissa
+- O reino de Eldros foi tomado por uma maldição antiga. Esqueletos e criaturas corrompidas emergem da floresta de Mycos, guiados por um necromante que voltou do mundo dos mortos. Cabe a Kael, um guerreiro exilado, cruzar esse território sombrio, enfrentar seus próprios fantasmas e derrotar o mal que ameaça destruir tudo.
 
     - Como o Jogo começa?
     - Como o jogo evolui?

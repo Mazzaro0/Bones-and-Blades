@@ -1,10 +1,16 @@
 ### Estética
 
-- Personagens 
-    - Quais os personagens que farão parte do jogo?
-        - Ex: Protagonistas, Antagonistas, Personagens não jogaveis (NPCs) ...
-    - Qual o plano de fundo do(s) seu(s) personagem(s)?
-    - Quais as características mais importantes para serem adicionadas no(s) personagem(s)?
+Protagonista – Kael, o Exilado
+Descrição: Um guerreiro silencioso e determinado, banido de seu reino após ser acusado injustamente de traição. Busca redenção enfrentando os mortos que agora assolam a floresta mística.
+
+Plano de Fundo: Kael era o capitão da guarda real, mas foi traído por um antigo aliado e expulso. Em exílio, ouviu rumores de que os mortos estavam se levantando, liderados por um antigo inimigo seu. Decide voltar, não só para salvar o reino, mas para enfrentar seu passado.
+
+Características principais:
+
+- Usa espada (pode ganhar novas armas e habilidades com o tempo)
+- Armadura leve e capa vermelha
+- Focado, resistente, justo
+- Animações suaves (correr, pular, atacar, tomar dano)
 
 - História
 

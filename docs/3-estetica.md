@@ -1,6 +1,6 @@
 ### Estética
 
-Protagonista – Kael, o Exilado
+Protagonista – Kael
 Descrição: Um guerreiro silencioso e determinado, banido de seu reino após ser acusado injustamente de traição. Busca redenção enfrentando os mortos que agora assolam a floresta mística.
 
 Plano de Fundo: Kael era o capitão da guarda real, mas foi traído por um antigo aliado e expulso. Em exílio, ouviu rumores de que os mortos estavam se levantando, liderados por um antigo inimigo seu. Decide voltar, não só para salvar o reino, mas para enfrentar seu passado.

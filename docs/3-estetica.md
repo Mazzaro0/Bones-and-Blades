@@ -7,7 +7,7 @@ Plano de Fundo: Kael era o capitão da guarda real, mas foi traído por um antig
 
 Características principais:
 
-- Usa espada (pode ganhar novas armas e habilidades com o tempo)
+- Usa espada
 - Armadura leve e capa vermelha
 - Focado, resistente, justo
 - Animações suaves (correr, pular, atacar, tomar dano)

@@ -5,7 +5,7 @@ Trabalho de Desenvolvimento de Jogos apresentado ao Centro Universitário [FEI](
 
 - Giulliano Mazzaro de Camargo R.A: 22.121.024-8
 - Gustavo das Flores Lima R.A: 22.221.041-1
-- Nome Componente 3
+- Kaique da Silva Fernandes R.A: 22.221.011-4
 
 ## Tópicos
 - [Introdução](./docs/1-introducao.md)

@@ -15,7 +15,8 @@ Características principais:
 - História
 
 Premissa
-- O reino de Eldros foi tomado por uma maldição antiga. Esqueletos e criaturas corrompidas emergem da floresta de Mycos, guiados por um necromante que voltou do mundo dos mortos. Cabe a Kael, um guerreiro exilado, cruzar esse território sombrio, enfrentar seus próprios fantasmas e derrotar o mal que ameaça destruir tudo.
+- Kael é um renomado caçador de monstros, conhecido por sua frieza e habilidade com a espada. Diferente dos outros, ele não caça por glória ou dinheiro — mas pelo puro prazer da caçada. A floresta de Mycos, envolta em neblina e cheia de lendas sobre criaturas amaldiçoadas, sempre despertou sua curiosidade.
+Quando surgem rumores de esqueletos vivos marchando entre as árvores e moedas douradas espalhadas por trilhas esquecidas, Kael parte sem hesitar. Para ele, essa não é uma missão... é diversão.
 
     - Como o Jogo começa?
     - Como o jogo evolui?

@@ -11,9 +11,11 @@ A progressão revela trechos da história de Kael através de falas e símbolos 
 Crescimento do personagem: novas armas, upgrades e inimigos cada vez mais difíceis.
 Curiosidade para descobrir quem está por trás da maldição (o necromante Ossarion) e se Kael sobreviverá.
 
-- Quais os tipos de decisões do seu jogador? 
-    - Ex: Discernível; Integrado; Ambíguo; Dois gumes; Novela
-    - Onde e como eles acontecem
+- Quais os tipos de decisões do seu jogador?
+Tipo: Dois Gumes e Ambíguo: 
+O jogador decide explorar ou seguir direto, mas correr atrás de moedas e itens pode gerar emboscadas.
+
+Lutar ou fugir de hordas — às vezes fugir pode ser mais estratégico, mas se fugir demais, o personagem fica sem recursos.
 
 - Guiando o Jogador:
     - Quais os elementos de orientação direta?

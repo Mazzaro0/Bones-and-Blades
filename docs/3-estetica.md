@@ -41,6 +41,7 @@ A quantidade de esqueletos é insana. Mesmo lutando como nunca, Kael é derrubad
 
 - Sentidos
     - Quais os sentidos dos jogadores você gostaria de explorar no seu jogo?
+
 Visão:
 O jogo tem um estilo pixel art sombrio, com ambientes escuros, neblina e contraste forte entre luz e sombra para criar uma sensação constante de mistério e tensão.
 

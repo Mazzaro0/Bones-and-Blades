@@ -7,13 +7,13 @@
         - Interação com o ambiente: coletar moedas, ativar alavancas, conversar com NPCs e enfrentar inimigos
           
     - Qual o objetivo do jogo?
-          - Sobreviver à horda de esqueletos e monstros na floresta amaldiçoada.
-          - Eliminar o maior número de inimigos possível e coletar moedas e relíquias.
+      - Sobreviver à horda de esqueletos e monstros na floresta amaldiçoada.
+        - Eliminar o maior número de inimigos possível e coletar moedas e relíquias.
       
     - Quando o jogador ganha?
-              - Kael sobrevive à última horda de esqueletos e consegue sair da floresta.
+      - Kael sobrevive à última horda de esqueletos e consegue sair da floresta.
     - Quando o jogador perde?
-  
+      - Se Kael morrer em batalha para a horda de esqueletos ou cair em armadilhas letais.
     - Quais são as regrsas do jogo?
     - Quais são os procedimentos do jogo?
     - Quais os recursos do jogo?

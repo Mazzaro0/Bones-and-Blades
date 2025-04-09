@@ -25,10 +25,13 @@ Quando surgem rumores de esqueletos vivos marchando entre as árvores e moedas d
         - Novas abilidades X Novos desafios
     - Como o jogo termina?
   Quando o Kael não resistir e morrer diante a horda de esqueletos
-        - Quais os possíveis finais da sua história?
-Final 1 – Kael Sobrevive à Horda (Final Bom)
+    - Quais os possíveis finais da sua história?
+Final Bom – Kael Sobrevive à Horda
+
 Kael resiste à última horda de esqueletos, mesmo exausto e cercado. Usando todas as suas habilidades, ele vence a emboscada e segue até o Templo da Perdição.
-Final 2 – Kael Morre para a Horda (Final Ruim)
+
+Final Ruim – Kael Morre para a Horda
+
 A quantidade de esqueletos é insana. Mesmo lutando como nunca, Kael é derrubado. Seu corpo fica no chão, cercado por ossos quebrados e sangue. A floresta volta ao silêncio.
 
 - Sentidos

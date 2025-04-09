@@ -7,8 +7,7 @@
         Primeiro encontro com os esqueletos já mostra que não é um jogo "fácil".
 
 - Envolvimento – Interesse de longo prazo.
-    - Crescimento do personagem: novas armas, upgrades e inimigos cada vez mais difíceis.
-    - Curiosidade para descobrir quem está por trás da maldição (o necromante Ossarion) e se Kael sobreviverá.
+    - Inimigos cada vez mais difíceis.
 
 - Quais os tipos de decisões do seu jogador?
 

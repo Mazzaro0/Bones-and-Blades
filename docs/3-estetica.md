@@ -51,17 +51,14 @@ Trilhas sonoras ambientais e sombrias, com música de tensão crescente conforme
 - O jogo vai ter elementos visuais, sonoros, táteis, degustativos, olfativos?
 Degustativos, olfativos e táteis não teremos suporte, porém visual e sonoro sim!
 
-    - Como esses elementos são apresentados para o jogador?
+- Como esses elementos são apresentados para o jogador?
 
-- Elementos Visuais
+Elementos Visuais
 Estilo pixel art sombrio, com cores escuras e detalhes em vermelho, roxo e verde para criar um clima de mistério e perigo.
 
-- Efeitos sonoros impactantes:
-Passos de Kael na floresta.
-
-Rangidos de ossos dos esqueletos.
-
-Som metálico ao golpear.
-
-Ruídos distantes que indicam a aproximação de inimigos.
+Efeitos sonoros impactantes:
+- Passos de Kael na floresta.
+- Rangidos de ossos dos esqueletos.
+- Som metálico ao golpear.
+- Ruídos distantes que indicam a aproximação de inimigos.
 

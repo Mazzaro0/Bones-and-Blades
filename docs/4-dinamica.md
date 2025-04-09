@@ -12,6 +12,7 @@ Crescimento do personagem: novas armas, upgrades e inimigos cada vez mais difíc
 Curiosidade para descobrir quem está por trás da maldição (o necromante Ossarion) e se Kael sobreviverá.
 
 - Quais os tipos de decisões do seu jogador?
+
 Tipo: Dois Gumes e Ambíguo: 
 O jogador decide explorar ou seguir direto, mas correr atrás de moedas e itens pode gerar emboscadas.
 

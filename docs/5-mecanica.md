@@ -8,7 +8,7 @@
           
     - Qual o objetivo do jogo?
       - Sobreviver à horda de esqueletos e monstros na floresta amaldiçoada.
-        - Eliminar o maior número de inimigos possível e coletar moedas e relíquias.
+      - Eliminar o maior número de inimigos possível e coletar moedas e relíquias.
       
     - Quando o jogador ganha?
       - Kael sobrevive à última horda de esqueletos e consegue sair da floresta.

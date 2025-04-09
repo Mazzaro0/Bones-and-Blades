@@ -13,10 +13,8 @@ Curiosidade para descobrir quem está por trás da maldição (o necromante Ossa
 
 - Quais os tipos de decisões do seu jogador?
 
-Tipo: Dois Gumes e Ambíguo: 
-O jogador decide explorar ou seguir direto, mas correr atrás de moedas e itens pode gerar emboscadas.
-
-Lutar ou fugir de hordas — às vezes fugir pode ser mais estratégico, mas se fugir demais, o personagem fica sem recursos.
+    - Tipo: Dois Gumes e Ambíguo: O jogador decide explorar ou seguir direto, mas correr atrás de moedas e itens pode gerar emboscadas.
+    - Lutar ou fugir de hordas — às vezes fugir pode ser mais estratégico, mas se fugir demais, o personagem fica sem recursos.
 
 - Guiando o Jogador:
     - Quais os elementos de orientação direta?

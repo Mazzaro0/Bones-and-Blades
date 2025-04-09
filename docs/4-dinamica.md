@@ -2,9 +2,9 @@
 
 - Quais os elementos de atenção e envolvimento na história?
     - Atenção – Interesse imediato.
-O jogo começa com Kael já dentro da floresta, enfrentando inimigos nos primeiros minutos.
-Visual sombrio + combate rápido e moedas chamativas prendem o jogador logo de cara.
-Primeiro encontro com os esqueletos já mostra que não é um jogo "fácil".
+        - O jogo começa com Kael já dentro da floresta, enfrentando inimigos nos primeiros minutos.
+        Visual sombrio + combate rápido e moedas chamativas prendem o jogador logo de cara.
+        Primeiro encontro com os esqueletos já mostra que não é um jogo "fácil".
 
 - Envolvimento – Interesse de longo prazo.
     - Crescimento do personagem: novas armas, upgrades e inimigos cada vez mais difíceis.

@@ -19,13 +19,16 @@ Premissa
 Quando surgem rumores de esqueletos vivos marchando entre as árvores e moedas douradas espalhadas por trilhas esquecidas, Kael parte sem hesitar. Para ele, essa não é uma missão... é diversão.
 
     - Como o Jogo começa?
+  
   O jogo começa com uma breve hitória sobre o passado do protagonista, para dar um contexto ao jogador e depois se iniciar a aventura.
 
     - Como o jogo evolui?
+  
   Conforme Kael se aprofunda na floresta de Mycos, os inimigos se tornam mais numerosos, mais agressivos e mais estranhos
 
-        - Novas abilidades X Novos desafios
+   - Novas abilidades X Novos desafios
     - Como o jogo termina?
+  
   Quando o Kael não resistir e morrer diante a horda de esqueletos
   
     - Quais os possíveis finais da sua história?

@@ -18,6 +18,9 @@ Curiosidade para descobrir quem está por trás da maldição (o necromante Ossa
 
 - Guiando o Jogador:
     - Quais os elementos de orientação direta?
-        - Onde e como eles acontecem
+        - Orientação Direta
+        - NPCs que dizem frases curtas como “Ali é perigoso…” ou “Ouvi passos do outro lado…”
+
+Tutoriais simples no início com dicas rápidas (“Aperte Z para atacar”).
     - Quais os elementos de orientação indireta?
         - Onde e como eles acontecem
